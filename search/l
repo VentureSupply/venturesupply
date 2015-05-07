@@ -1,0 +1,354 @@
+<HEAD>
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Pragma" content="no-cache">
+<SCRIPT language=javascript SRC="/Javascript/MoCookie.js"></SCRIPT>
+<SCRIPT language=javascript SRC="/Javascript/Validation.js"></SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#ffffff" TOPMARGIN="30" LEFTMARGIN="30" background="/images/sealbg1.gif"
+onLoad='self.status="Fictitious Business Names Search";getCookie();'>
+<FORM name="formid" method="post">
+<INPUT type="hidden" name="Order"></input>
+<input type="hidden" name="Official"></input>
+<input type="hidden" name="Birth"></input>
+<input type="hidden" name="Marriage" ></input>
+<input type="hidden" name="Death" ></input>
+<INPUT type="hidden" name="Session">
+<INPUT type="hidden" name="Maps">
+<INPUT type="hidden" name="Fbn"></input>
+<SCRIPT LANGUAGE=javascript>
+<!--
+// If the login succeeds then replace the left menu panel with "logoff".
+function subs()
+{
+parent.main1.location = document.forms[0].URL.value;
+parent.main1.location.replace(document.forms[0].URL.value);
+alert(document.forms[0].URL.value);
+}
+//-->
+</SCRIPT>
+<script LANGUAGE="JavaScript"><!--
+// store original outer dimensions as page loads
+var originalWidth = window.outerWidth
+var originalHeight = window.outerHeight
+var subw
+// generic function to create a new options window
+function CreateWindow(FormPath)
+{
+//document.write(ImagePath)
+//if (self.document.cookie.substr(6,3)!="YES") {
+if (!subw || subw.closed)
+{
+subw = window.open(FormPath,"def","height=100,width=200");
+}
+else {
+subw.window.focus() ;
+}
+}
+// --></SCRIPT>
+<input type="hidden" name="NEWWIN" value="" ></INPUT>
+<input type=hidden name=test value="00000000">
+<SCRIPT LANGUAGE=javascript>
+<!--
+// If the login succeeds then replace the left menu panel with "logoff".
+function subs()
+{
+parent.main1.location = document.forms[0].URL.value;
+parent.main1.location.replace(document.forms[0].URL.value);
+alert(document.forms[0].URL.value);
+}
+//-->
+</SCRIPT>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td nowrap ><font face="Arial"
+size="5"><strong>
+Search by Fictitious Business Name:
+</strong></font>&nbsp;<br><P></P>
+</td>
+</tr>
+<tr><td><font face="Arial" size="3"> &nbsp;Business Name: FUN</font></td></tr>
+<tr><td><font face="Arial" size="3">&nbsp;Owner Name: </font></td></tr>
+<tr><td><font face="Arial" size="3">
+&nbsp;Date:
+</font></td></tr>
+<P></P></table><br>
+<TABLE><TR><TD nowrap>
+</TD></TR>
+</TABLE>
+<br>
+<IMG id=IMG1 src="/images/line.gif" width="100%" >
+<BR>
+<TABLE border=5 width="100%" cellpadding=0>
+<tr>
+<th colspan=5><font size="+1">
+<b>Search Results for
+FUN
+&nbsp;&nbsp;&nbsp;
+<CENTER></CENTER>
+<DIV></DIV></b></font></th>
+</tr>
+<TR>
+<td align="middle" valign="bottom" width="50%" nowrap>
+<font size="2"><b>
+Business Name
+</b></font>
+</td>
+<td align="middle" valign="bottom" width="10%" nowrap><font
+size="2"><b>Certificate</b></font></td>
+<td align="middle" valign="bottom" width="10%" nowrap><font
+size="2"><b>File Date</b></font></td>
+<td align="middle" valign="bottom" width="10%" nowrap><font
+size="2"><b>Status<br>
+</b></font></td>
+<td align="middle" valign="bottom" width="10%" nowrap><font
+size="2"><b>Document<br>
+Type</b></font></td>
+</TR>
+<TR valign="top" size="-1">
+<td align=left width="50%">
+<font size="-1">
+<A HREF="http://www.clerkrecordersearch.org:80/cgi-bin/Fbnindex.html/alldetail?Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N&USERKEY=2015050300000000000896FBN
+&Search_Type=0021%20&Seq=1&Image=&Path=" >
+FUN & GAMES</A>
+</TD>
+<td align=center width="10%"> <font size="-1">
+421948
+</font>
+</TD>
+<TD align=center width="10%"> <font size="-1">
+02/04/2003
+</TD>
+<TD align=center width="10%"> <font size="-1">
+EXPIRED
+</TD>
+<TD align=center width="10%"> <font size="-1">
+F
+</TD>
+</TR>
+<TR valign="top" size="-1">
+<td align=left width="50%">
+<font size="-1">
+<A HREF="http://www.clerkrecordersearch.org:80/cgi-bin/Fbnindex.html/alldetail?Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N&USERKEY=2015050300000000000896FBN
+&Search_Type=0021%20&Seq=2&Image=&Path=" >
+FUN ADVENTURES</A>
+</TD>
+<td align=center width="10%"> <font size="-1">
+339464
+</font>
+</TD>
+<TD align=center width="10%"> <font size="-1">
+09/02/1997
+</TD>
+<TD align=center width="10%"> <font size="-1">
+EXPIRED
+</TD>
+<TD align=center width="10%"> <font size="-1">
+F
+</TD>
+</TR>
+<TR valign="top" size="-1">
+<td align=left width="50%">
+<font size="-1">
+<A HREF="http://www.clerkrecordersearch.org:80/cgi-bin/Fbnindex.html/alldetail?Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N&USERKEY=2015050300000000000896FBN
+&Search_Type=0021%20&Seq=3&Image=&Path=" >
+FUN AIR</A>
+</TD>
+<td align=center width="10%"> <font size="-1">
+370492
+</font>
+</TD>
+<TD align=center width="10%"> <font size="-1">
+09/08/1999
+</TD>
+<TD align=center width="10%"> <font size="-1">
+EXPIRED
+</TD>
+<TD align=center width="10%"> <font size="-1">
+F
+</TD>
+</TR>
+<TR valign="top" size="-1">
+<td align=left width="50%">
+<font size="-1">
+<A HREF="http://www.clerkrecordersearch.org:80/cgi-bin/Fbnindex.html/alldetail?Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N&USERKEY=2015050300000000000896FBN
+&Search_Type=0021%20&Seq=4&Image=&Path=" >
+FUN AND EDUCATIONAL CLUB</A>
+</TD>
+<td align=center width="10%"> <font size="-1">
+451233
+</font>
+</TD>
+<TD align=center width="10%"> <font size="-1">
+09/27/2004
+</TD>
+<TD align=center width="10%"> <font size="-1">
+EXPIRED
+</TD>
+<TD align=center width="10%"> <font size="-1">
+F
+</TD>
+</TR>
+<TR valign="top" size="-1">
+<td align=left width="50%">
+<font size="-1">
+<A HREF="http://www.clerkrecordersearch.org:80/cgi-bin/Fbnindex.html/alldetail?Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N&USERKEY=2015050300000000000896FBN
+&Search_Type=0021%20&Seq=5&Image=&Path=" >
+FUN AND EDUCATIONAL CLUB</A>
+</TD>
+<td align=center width="10%"> <font size="-1">
+523683
+</font>
+</TD>
+<TD align=center width="10%"> <font size="-1">
+04/30/2009
+</TD>
+<TD align=center width="10%"> <font size="-1">
+EXPIRED
+</TD>
+<TD align=center width="10%"> <font size="-1">
+F
+</TD>
+</TR>
+<TR valign="top" size="-1">
+<td align=left width="50%">
+<font size="-1">
+<A HREF="http://www.clerkrecordersearch.org:80/cgi-bin/Fbnindex.html/alldetail?Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N&USERKEY=2015050300000000000896FBN
+&Search_Type=0021%20&Seq=6&Image=&Path=" >
+FUN AND EDUCATIONAL CLUB</A>
+</TD>
+<td align=center width="10%"> <font size="-1">
+591154
+</font>
+</TD>
+<TD align=center width="10%"> <font size="-1">
+04/24/2014
+</TD>
+<TD align=center width="10%"> <font size="-1">
+ACTIVE
+</TD>
+<TD align=center width="10%"> <font size="-1">
+F
+</TD>
+</TR>
+<TR valign="top" size="-1">
+<td align=left width="50%">
+<font size="-1">
+<A HREF="http://www.clerkrecordersearch.org:80/cgi-bin/Fbnindex.html/alldetail?Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N&USERKEY=2015050300000000000896FBN
+&Search_Type=0021%20&Seq=7&Image=&Path=" >
+FUN AND FLIRTY</A>
+</TD>
+<td align=center width="10%"> <font size="-1">
+453676
+</font>
+</TD>
+<TD align=center width="10%"> <font size="-1">
+11/22/2004
+</TD>
+<TD align=center width="10%"> <font size="-1">
+EXPIRED
+</TD>
+<TD align=center width="10%"> <font size="-1">
+F
+</TD>
+</TR>
+<TR valign="top" size="-1">
+<td align=left width="50%">
+<font size="-1">
+<A HREF="http://www.clerkrecordersearch.org:80/cgi-bin/Fbnindex.html/alldetail?Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N&USERKEY=2015050300000000000896FBN
+&Search_Type=0021%20&Seq=8&Image=&Path=" >
+FUN AND FLIRTY</A>
+</TD>
+<td align=center width="10%"> <font size="-1">
+454926
+</font>
+</TD>
+<TD align=center width="10%"> <font size="-1">
+12/29/2004
+</TD>
+<TD align=center width="10%"> <font size="-1">
+EXPIRED
+</TD>
+<TD align=center width="10%"> <font size="-1">
+F
+</TD>
+</TR>
+<TR valign="top" size="-1">
+<td align=left width="50%">
+<font size="-1">
+<A HREF="http://www.clerkrecordersearch.org:80/cgi-bin/Fbnindex.html/alldetail?Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N&USERKEY=2015050300000000000896FBN
+&Search_Type=0021%20&Seq=9&Image=&Path=" >
+FUN ANIME SHOP</A>
+</TD>
+<td align=center width="10%"> <font size="-1">
+425774
+</font>
+</TD>
+<TD align=center width="10%"> <font size="-1">
+04/18/2003
+</TD>
+<TD align=center width="10%"> <font size="-1">
+EXPIRED
+</TD>
+<TD align=center width="10%"> <font size="-1">
+F
+</TD>
+</TR>
+<TR valign="top" size="-1">
+<td align=left width="50%">
+<font size="-1">
+<A HREF="http://www.clerkrecordersearch.org:80/cgi-bin/Fbnindex.html/alldetail?Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N&USERKEY=2015050300000000000896FBN
+&Search_Type=0021%20&Seq=10&Image=&Path=" >
+FUN ARTS</A>
+</TD>
+<td align=center width="10%"> <font size="-1">
+363729
+</font>
+</TD>
+<TD align=center width="10%"> <font size="-1">
+04/02/1999
+</TD>
+<TD align=center width="10%"> <font size="-1">
+EXPIRED
+</TD>
+<TD align=center width="10%"> <font size="-1">
+F
+</TD>
+</TR>
+	<SCRIPT LANGUAGE=javascript>
+<!--
+var expiration = new Date((new Date()).getTime()
++ 60000);// Thu, 01-Jan-70 00:00:01 GMT
+if (navigator.userAgent.indexOf("MSIE") >0)
+{
+var ScreenWidth = document.body.clientWidth/2 - 60;
+var ScreenHeight = document.body.clientHeight - 30;
+}
+else
+{
+var ScreenWidth = window.outerWidth;
+var ScreenHeight = window.outerHeight;
+}
+document.cookie
+= "ScreenHeight=" + ScreenHeight +
+";Path=/;domain=" + self.document.domain
+//+ ";expires=" + expiration
+document.cookie
+= "ScreenWidth=" + ScreenWidth +
+";Path=/;domain=" + self.document.domain //+ ";expires=" + expiration
+//-->
+</SCRIPT>
+</TABLE>
+<Table align=center border=0 width=200 cellpadding=0 cellspacing=15>
+<TR>
+</b>
+<td align=middle width=100 nowrap><b>
+</b>
+</td>
+<td align=middle bgcolor="#ccccaa" width=100 nowrap><b>
+<A href="http://www.clerkrecordersearch.org:80/cgi-bin/FBNResult01.html/input?BusinessName=FUN&OwnerName=&SearchDate=00000000
+&USERKEY=2015050300000000000896FBN&Last_Batno=9999999&Last_Batsq=132287&Last_Orig_FBN=0&Last_FBN=363729&Last_Business_Name=FUN%20ARTS&Last_Owner_Name=&Last_Search_Date=19990402&START_ROW_NUM=11&SearchType=0021N&Last_Rcd=10&Official=N&Birth=N&Death=N&Marriage=N&Maps=N&Fbn=N" >
+NEXT 10</A>
+</b></td></tr>
+</table>
+</FORM>
+</BODY>
