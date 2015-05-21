@@ -45,8 +45,13 @@ def search(request):
         }
         business_list.append(business_data)
         for b in business_list:
-            return HttpResponse("<h1>%s</h1>" % b)
-            print(b)
+            if b['name'] == business_name:
+                if b['status'] == "ACTIVE":
+                    return HttpResponse("Taken")
+
+    return HttpResponse("Available")
+
+        
 
     #return HttpResponse("<h1>a</h1>")
     return render_to_response('search/search.html', context_instance=RequestContext(request))
